@@ -1,0 +1,9 @@
+
+# Private keys and secret key files
+private_key.pem
+private.key
+*.pem
+*.key
+
+# Compiled Java files
+*.class
