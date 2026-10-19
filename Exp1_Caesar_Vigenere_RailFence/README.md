@@ -87,21 +87,21 @@ To implement Caesar, Vigenère, and Rail Fence ciphers to encrypt and decrypt th
 
 **Encryption Output**
 
-![Caesar Cipher Encryption](screenshots/Caesar_Encryption.png)
+![Caesar Cipher Encryption](screenshots/caesar_encryption.png)
 
 **Decryption Output**
 
-![Caesar Cipher Decryption](screenshots/Caesar_Decryption.png)
+![Caesar Cipher Decryption](screenshots/caesar_decryption.png)
 
 ### B. Vigenère Cipher
 
 **Encryption Output**
 
-![Vigenere Cipher Encryption](screenshots/Vigenere_Encryption.png)
+![Vigenere Cipher Encryption](screenshots/vigenere_encryption.png)
 
 **Decryption Output**
 
-![Vigenere Cipher Decryption](screenshots/Vigenere_Decryption.png)
+![Vigenere Cipher Decryption](screenshots/vigenere_decryption.png)
 
 ### C. Rail Fence Cipher
 
